@@ -1,0 +1,28 @@
+[2026-03-04 01:18:48]|Administrator | Update data siswa | MUHAMMAD FIRAS RIDHANI
+[2026-03-04 01:20:43]|Administrator | Update data siswa | MUHAMMAD HAFIDZ ATHARI AKBAR MUSLIH PUTRA
+[2026-03-04 01:23:34]|Administrator | Update data siswa | MUHAMMAD NAUFAL ZHAFIF KURNIAWAN
+[2026-03-04 01:25:25]|Administrator | Update data siswa | RAJIB BAHARUDIN RABBANI
+[2026-03-04 01:28:05]|Administrator | Update data siswa | REYHAN EMERALDY WIJAYA
+[2026-03-04 01:29:02]|Administrator | Update data siswa | ABDUS SALAM SAPUTRA
+[2026-03-04 01:30:20]|Administrator | Update data siswa | DARIS AHNAF ZAKARIA
+[2026-03-04 01:31:59]|Administrator | Update data siswa | DEVIN ALDO PRADITYA
+[2026-03-04 01:32:52]|Administrator | Update data siswa | ELNINO GALUH SYAHPUTRA
+[2026-03-04 01:34:02]|Administrator | Update data siswa | FARRAS BAHIJ EL-HAQQI
+[2026-03-04 01:36:01]|Administrator | Update data siswa | KARIMA SYIFA
+[2026-03-04 01:42:52]|Administrator | Update data siswa | KEMILAU EMBUN PAGI
+[2026-03-04 01:43:43]|Administrator | Update data siswa | KHADEEJA SAIFA HADIDHARMA
+[2026-03-04 01:44:48]|Administrator | Update data siswa | LAREINA AURELIE ALLINDA
+[2026-03-04 01:45:36]|Administrator | Update data siswa | M. ALFIN HISYAM WAHJUDI
+[2026-03-04 01:46:21]|Administrator | Update data siswa | MUHAMMAD AL-HADID TEDJASUKMANA
+[2026-03-04 01:47:18]|Administrator | Update data siswa | NAJMA ZAHIRA
+[2026-03-04 01:48:25]|Administrator | Update data siswa | NAJMI ANINDYA RAISSA SUDIBYA
+[2026-03-04 01:49:13]|Administrator | Update data siswa | NAJWA ALMIRA .U. DJAWAS
+[2026-03-04 01:50:01]|Administrator | Update data siswa | NAVISHA ANASTASYA
+[2026-03-04 01:50:42]|Administrator | Update data siswa | PRATAMA RACHMAT ROMADHONI
+[2026-03-04 01:51:29]|Administrator | Update data siswa | R. ALBAN FAIQ ARVANJAYA
+[2026-03-04 01:52:18]|Administrator | Update data siswa | RAKKA SHEVA FABIAN ADI NEGORO
+[2026-03-04 01:53:44]|Administrator | Update data siswa | RALIBI ALBANI
+[2026-03-04 01:55:22]|Administrator | Update data siswa | SELVIE RAHMADANI PUTRI
+[2026-03-04 01:56:47]|Administrator | Update data siswa | ULFINATUS  SOLEHAH
+[2026-03-04 01:57:39]|Administrator | Update data siswa | ZU ALDIAN PUTRA
+[2026-03-04 02:29:03]|Administrator | Menambah data Tanggal Rapor | 20251 | Surabaya | 2025-12-20 | 0

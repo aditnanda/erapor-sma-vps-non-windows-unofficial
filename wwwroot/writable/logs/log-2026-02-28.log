@@ -1,0 +1,18 @@
+ERROR - 2026-02-28 02:38:39 --> ErrorException: pg_query(): Query failed: ERROR:  invalid input syntax for type numeric: &quot;&quot;
+LINE 1: ...amat_wali&quot; = '', &quot;telepon_wali&quot; = '', &quot;anak_ke&quot; = '', &quot;sekol...
+                                                             ^ in C:\appraporsmaref25\wwwroot\vendor\codeigniter4\framework\system\Database\Postgre\Connection.php:206
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+#1 C:\appraporsmaref25\wwwroot\vendor\codeigniter4\framework\system\Database\Postgre\Connection.php(206): pg_query()
+#2 C:\appraporsmaref25\wwwroot\vendor\codeigniter4\framework\system\Database\BaseConnection.php(738): CodeIgniter\Database\Postgre\Connection->execute()
+#3 C:\appraporsmaref25\wwwroot\vendor\codeigniter4\framework\system\Database\BaseConnection.php(652): CodeIgniter\Database\BaseConnection->simpleQuery()
+#4 C:\appraporsmaref25\wwwroot\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2521): CodeIgniter\Database\BaseConnection->query()
+#5 C:\appraporsmaref25\wwwroot\app\Models\M_master.php(0): CodeIgniter\Database\BaseBuilder->update()
+#6 C:\appraporsmaref25\wwwroot\app\Controllers\Referensi.php(0): App\Models\M_master->save_data()
+#7 C:\appraporsmaref25\wwwroot\vendor\codeigniter4\framework\system\CodeIgniter.php(933): App\Controllers\Referensi->save_editsiswa()
+#8 C:\appraporsmaref25\wwwroot\vendor\codeigniter4\framework\system\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+#9 C:\appraporsmaref25\wwwroot\vendor\codeigniter4\framework\system\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+#10 C:\appraporsmaref25\wwwroot\vendor\codeigniter4\framework\system\Boot.php(334): CodeIgniter\CodeIgniter->run()
+#11 C:\appraporsmaref25\wwwroot\vendor\codeigniter4\framework\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+#12 C:\appraporsmaref25\wwwroot\public\index.php(56): CodeIgniter\Boot::bootWeb()
+#13 {main}

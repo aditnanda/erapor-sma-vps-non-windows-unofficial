@@ -1,0 +1,14 @@
+[2026-03-30 05:49:29]|Administrator | Update data Ringkas Mata Pelajaran
+[2026-03-30 05:52:23]|Administrator | Menambah data Mapel Lokal | 100011070 |  Pendidikan Agama Islam dan Budi Pekerti  | PAI dan BP 
+[2026-03-30 05:53:55]|Administrator | Menambah data Mapel Lokal | 200010000 |  Pendidikan Pancasila dan Kewarganegaraan   | PKn 
+[2026-03-30 05:54:30]|Administrator | Menambah data Mapel Lokal | 300310100 |  Bahasa Arab  | BA 
+[2026-03-30 05:55:28]|Administrator | Menambah data Mapel Lokal | 300311900 |  Muatan Lokal Bahasa Daerah  | MLBD 
+[2026-03-30 05:57:13]|Administrator | Menambah data Mapel Lokal | 999800408 |  Pendidikan Jasmani, Olahraga dan Kesehatan  | PJOK 
+[2026-03-30 05:58:44]|Administrator | Menambah data Mapel Lokal | 999891004 |  Seni dan Budaya  | SB 
+[2026-03-30 06:18:33]|Administrator | Menambah data Mapel Lokal | 401110200 |  Biologi  | BIO 
+[2026-03-30 06:19:09]|Administrator | Menambah data Mapel Lokal | 401121000 |  Fisika  | FIS 
+[2026-03-30 06:19:41]|Administrator | Menambah data Mapel Lokal | 401130000 |  Kimia  | KIM 
+[2026-03-30 06:20:09]|Administrator | Menambah data Mapel Lokal | 401220000 |  Geografi  | GEO 
+[2026-03-30 06:24:52]|Administrator | Menambah data Mapel Lokal | 401230000 |  Sejarah  | SEJ 
+[2026-03-30 06:25:17]|Administrator | Menambah data Mapel Lokal | 401240000 |  Sosiologi  | SOSIO 
+[2026-03-30 06:25:49]|Administrator | Menambah data Mapel Lokal | 401250100 |  Ekonomi  | EKONOM 

@@ -1,0 +1,43 @@
+[2026-05-05 00:59:20]|Administrator | Menambah data Mapel Lokal | 401200000 |  Ilmu Pengetahuan Sosial (IPS)  | IPS 
+[2026-05-05 01:00:20]|Administrator | Menambah data Mapel Lokal | 401100000 |  Ilmu Pengetahuan Alam (IPA)  | IPA 
+[2026-05-05 01:02:45]|Administrator | Update data Gabung Mapel | Tingkat 10 |  Ilmu Pengetahuan Sosial (IPS)  
+[2026-05-05 01:04:02]|Administrator | Update data Gabung Mapel | Tingkat 10 |  Ilmu Pengetahuan Alam (IPA)  
+[2026-05-05 02:03:38]|Administrator | Update data Ringkas Mata Pelajaran
+[2026-05-05 02:06:20]|Administrator | Update data Ringkas Mata Pelajaran
+[2026-05-05 02:11:14]|Administrator | Update data Mapping Mapel Rapor| Tingkat 10 | 22 
+[2026-05-05 02:11:35]|Administrator | Update data Mapping Mapel Rapor| Tingkat 10 | 22 
+[2026-05-05 02:12:13]|Administrator | Update data Mapping Mapel Rapor| Tingkat 10 | 22 
+[2026-05-05 02:12:54]|Administrator | Update data Mapping Mapel Rapor| Tingkat 10 | 22 
+[2026-05-05 02:13:15]|Administrator | Menghapus data Gabung Mapel | ID : d97e077d-72f4-4f03-a503-ef65ae5ec863 
+[2026-05-05 02:13:22]|Administrator | Menghapus data Gabung Mapel | ID : 47b506a4-cf3f-4972-b739-f97384e11c55 
+[2026-05-05 02:13:27]|Administrator | Menghapus data Gabung Mapel | ID : 370d40ca-884d-4536-aa9c-1afea5aceb1c 
+[2026-05-05 02:13:32]|Administrator | Menghapus data Gabung Mapel | ID : a32f5897-6d86-4c5c-a7cc-2e031c98d1c8 
+[2026-05-05 02:13:37]|Administrator | Menghapus data Gabung Mapel | ID : 9f9b8c78-7620-4415-b411-98d26a5cda8c 
+[2026-05-05 02:13:42]|Administrator | Menghapus data Gabung Mapel | ID : 70f58235-d41e-4ee2-bbea-7115a5790054 
+[2026-05-05 02:13:48]|Administrator | Menghapus data Gabung Mapel | ID : dc593c50-255f-41f9-960c-c130d2440f56 
+[2026-05-05 02:13:57]|Administrator | Menghapus data Gabung Mapel | ID : f426792a-cb5b-4d87-bcb0-5d4663853b5a 
+[2026-05-05 02:14:28]|Administrator | Update data Mapping Mapel Rapor| Tingkat 10 | 22 
+[2026-05-05 02:15:09]|Administrator | Update data Mapping Mapel Rapor| Tingkat 10 | 22 
+[2026-05-05 02:21:10]|Administrator | Update data Kelompok Mapel 
+[2026-05-05 02:24:09]|Administrator | Update data Mapping Mapel Rapor| Tingkat 10 | 22 
+[2026-05-05 02:27:27]|Administrator | Hapus data Pembelajaran | ID : 68c08ba1-632a-40d2-8e55-08de1b3941c3 
+[2026-05-05 02:34:34]|Administrator | Tambah data Pembelajaran |   Bahasa Arab   | 2ac31267-bcd8-46e1-b1d6-f9df08cf4b47 
+[2026-05-05 02:42:35]|Administrator | Update data Mapping Mapel Rapor| Tingkat 11 | 21 
+[2026-05-05 02:43:16]|Administrator | Menambah data Mapel Lokal | 300130000 |  Bahasa Indonesia Tingkat Lanjut  | BIN.TL 
+[2026-05-05 02:45:08]|Administrator | Tambah data Pembelajaran |   Bahasa Indonesia Tingkat Lanjut   | 2ac31267-bcd8-46e1-b1d6-f9df08cf4b47 
+[2026-05-05 02:45:56]|Administrator | Update data Mapping Mapel Rapor| Tingkat 11 | 22 
+[2026-05-05 02:46:57]|Administrator | Update data Mapping Mapel Rapor| Tingkat 11 | 22 
+[2026-05-05 02:50:23]|Administrator | Reset Password Pengguna |90f9790c-662b-11e4-9ff6-cfc489d4c189
+[2026-05-05 02:51:33]|Administrator | Reset Password Pengguna |90f9790c-662b-11e4-9ff6-cfc489d4c189
+[2026-05-05 02:54:34]|Administrator | Reset Password Pengguna |993ad326-caf3-4e0b-9a18-cbb3f5ef7f2e
+[2026-05-05 02:55:26]|Administrator | Reset Password Pengguna |1dc2bcb9-cf89-4d9d-af69-3bdba7fbd272
+[2026-05-05 02:56:14]|Administrator | Reset Password Pengguna |71ced669-f2af-4b87-9c3c-5d487c811540
+[2026-05-05 02:56:54]|Administrator | Reset Password Pengguna |ac331ed1-730d-41d2-9f2f-dc35bfdefd43
+[2026-05-05 02:57:34]|Administrator | Reset Password Pengguna |7cc8412e-f2db-11e4-8ab7-d35cec743dd8
+[2026-05-05 02:58:19]|Administrator | Reset Password Pengguna |807a17fc-8b18-e111-85f8-c101ea0c6687
+[2026-05-05 03:03:34]|Administrator | Menambah Pengguna |admin2|Bambang Agus Suprastyo|Admin
+[2026-05-05 03:13:38]|Administrator | Reset Password Pengguna |ef2304b5-0bf5-4570-b285-61f4cff4d7e5
+[2026-05-05 03:15:00]|Administrator | Reset Password Pengguna |edc4eb2e-8447-11e3-aaf7-839be9c86544
+[2026-05-05 03:15:37]|Administrator | Reset Password Pengguna |2f843dc8-0661-475c-9508-9edeb8fa0234
+[2026-05-05 03:22:10]|Administrator | Reset Password Pengguna |372c0e4b-3d14-4130-86ac-deacdca8ec3f
+[2026-05-05 03:22:54]|Administrator | Reset Password Pengguna |405713fd-8b18-e111-a867-07b670a61052
