@@ -1,0 +1,12 @@
+# Runtime PostgreSQL data
+/dbapp/*
+!/dbapp/.gitkeep
+
+# OS/editor
+.DS_Store
+Thumbs.db
+
+# Logs/temp
+*.log
+tmp/
+temp/
