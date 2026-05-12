@@ -72,7 +72,7 @@ class Filters extends BaseFilters
      */
     public array $globals = [
         'before' => [
-            'aktivasi' => ['except' => ['/kelulusan','/server-time','/hasilcek','admin/update','admin/update/start','admin/update/progress','admin/update/check', 'dashboard','dashboard/*', '/', 'login','login/cekuser','lupa_pass','login/ubah_password','pengembangan','aplikasi_crash','panduan','logout']], // Tambahkan route yang dikecualikan
+            'aktivasi' => ['except' => ['/kelulusan','/server-time','/hasilcek','admin/update','admin/update/start','admin/update/progress','admin/update/check', 'dashboard','dashboard/*', '/', 'login','login/cekuser','lupa_pass','login/ubah_password','pengembangan','aplikasi_crash','panduan','logout','info_aplikasi','perubahan_app','cekupdate_app','admin/*']], // Tambahkan route yang dikecualikan
            
             // 'honeypot',
             // 'csrf',

@@ -69,9 +69,9 @@ html.semi-dark .sidebar-wrapper .metismenu ul a:hover {
 html.semi-dark .simplebar-scrollbar:before {
   background: rgba(255, 255, 255, 0.4);
 }
-html.semi-dark .logo-icon {
+/* html.semi-dark .logo-icon {
   filter: invert(1) grayscale(100%) brightness(200%);
-}
+} */
 html.ColorLessIcons .sidebar-wrapper .metismenu .icon-color-1,
 html.ColorLessIcons .sidebar-wrapper .metismenu .icon-color-10,
 html.ColorLessIcons .sidebar-wrapper .metismenu .icon-color-11,

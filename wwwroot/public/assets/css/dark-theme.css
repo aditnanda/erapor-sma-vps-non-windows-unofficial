@@ -78,9 +78,9 @@ html.dark-theme .mobile-toggle-menu {
 html.dark-theme .btn-close {
   filter: invert(1) grayscale(100%) brightness(200%);
 }
-html.dark-theme .logo-icon {
+/* html.dark-theme .logo-icon {
   filter: invert(1) grayscale(100%) brightness(200%);
-}
+} */
 html.dark-theme .toggle-icon {
   color: #e7e9ec;
 }
